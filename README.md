@@ -5,13 +5,15 @@ Este es un script de instalación de BSPWM para kali o parrot linux, cabe aclara
 
 1.- Uso del Script 
 
-https://github.com/ZLCube/AutoBspwm.git
+```
+git clone https://github.com/ZLCube/AutoBspwm.git
 
 cd AutoBspwm
 
 chmod +x AutoInstall.sh
 
 ./AutoInstall.sh
+```
 
 2.- Wallpaper
 
